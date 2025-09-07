@@ -43,6 +43,9 @@ Inclui análise de valores anuais, variação face ao ano anterior e gráfico hi
 - `/screenshots` – Imagem do relatório  
 
 ---
+![Dashboard PIB](pib-portugal-1960-2024/screenshots/dashboard.png)
+![Dashboard Docentes](perfil-docente-ensino-superior-pt/dashboard.png)
+---
 
 ## 🛠️ Tecnologias utilizadas
 - **Power BI Desktop** (modelação de dados e design de relatórios)  
