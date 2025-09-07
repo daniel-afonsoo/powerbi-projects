@@ -45,7 +45,7 @@ Inclui análise de valores anuais, variação face ao ano anterior e gráfico hi
 ---
 ![Dashboard PIB](pib-portugal-1960-2024/screenshots/dashboard.png)
 - Dashboard PIB
-###
+******************************
 ![Dashboard Docentes](perfil-docente-ensino-superior-pt/dashboard.png)
 - Dashboard Perfil Docente
 ---
