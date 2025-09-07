@@ -10,7 +10,7 @@ Cada projeto utiliza dados **públicos** e está documentado com ficheiros, PDFs
 ### 1. [Perfil do Docente do Ensino Superior (2023/2024)](perfil-docente-ensino-superior-pt)
 
 **Descrição:**  
-Dashboard inspirado no relatório interativo da **DGEEC** ([ver aqui](https://app.powerbi.com/view?r=eyJrIjoiOTdhNzI3YjctYTM1ZC00NjUyLThkZGYtMjdjNDUzZTA3NjllIiwidCI6ImQ0MWIzMGNmLTgzMzEtNGJkNC05YTJkLTg3NGY1MmIwMDQxNSIsImMiOjh9)) que analisa o perfil dos docentes do Ensino Superior em Portugal.  
+Dashboard inspirado no relatório interativo da **DGEEC** (👉[Link direto](https://app.powerbi.com/view?r=eyJrIjoiOTdhNzI3YjctYTM1ZC00NjUyLThkZGYtMjdjNDUzZTA3NjllIiwidCI6ImQ0MWIzMGNmLTgzMzEtNGJkNC05YTJkLTg3NGY1MmIwMDQxNSIsImMiOjh9)) que analisa o perfil dos docentes do Ensino Superior em Portugal.  
 Inclui indicadores como: número total de docentes, distribuição por sexo, idade, habilitação académica, tipo de instituição (pública/privada) e ensino (politécnico/universitário).  
 
 **Dados:**  
@@ -33,7 +33,7 @@ Dashboard construído em Power BI para analisar a evolução do **Produto Intern
 Inclui análise de valores anuais, variação face ao ano anterior e gráfico histórico da evolução do PIB.  
 
 **Dados:**  
-- Fonte: **PORDATA – Estatísticas sobre Economia e Produtividade**  
+- Fonte: **PORDATA**  
   👉 [Link direto](https://www.pordata.pt/pt/estatisticas/economia/crescimento-e-produtividade/produto-interno-bruto-pib)  
 - Dados exportados em CSV e tratados no Power BI.  
 
